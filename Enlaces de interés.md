@@ -1,0 +1,5 @@
+- [Direct Access Memory (DMA)](https://hardzone.es/reportajes/que-es/unidades-dma/)
+- [Giant lock](https://en.wikipedia.org/wiki/Giant_lock)
+- [Locks y granularidad](https://en.wikipedia.org/wiki/Lock_(computer_science)#Granularity)
+- [Qué se prueba y qué se verifica](https://sel4.systems/Info/FAQ/proof.pml)
+- [Cheatsheet para Google repo tool](https://docs.sel4.systems/projects/buildsystem/repo-cheatsheet)
